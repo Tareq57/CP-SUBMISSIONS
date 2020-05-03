@@ -1417,6 +1417,24 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF78906422": {
+    "contest_id": 1100,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1100\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "NN and the Optical Illusion",
+    "problem_url": "https://codeforces.com/contest/1100/problem/C",
+    "submission_id": "CF78906422",
+    "submission_url": "https://codeforces.com/contest/1100/submission/78906422",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/03/2020 21:52"
+  },
   "CF78908223": {
     "contest_id": 1054,
     "language": "GNU C++17 (64)",
