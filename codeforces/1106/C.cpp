@@ -8,36 +8,35 @@ using namespace std;
 #define pll pair <long long,long long>
 #define f first
 #define s second
+#define pq priority_queue
 #define up upper_bound
 #define lp lower_bound
-#define pq priority_queue
-#define inf 1e10
-#define minf -1e10
 #define fastio ios_base::sync_with_stdio(0);cin.tie(NULL);
 int main()
 {
-    ll n,sum=0;
+    ll n;
     cin>>n;
-    vll vec,ans;
+    vll vec;
+    vll ans;
     for(ll i=0;i<n;i++)
     {
         ll num;
         cin>>num;
         vec.pb(num);
-
     }
     sort(vec.begin(),vec.end());
-    ll p=0,q=n-1;
-    while(p<q)
+    ll p=n-1;
+    for(ll i=0;i<n/2;i++)
     {
-        ll s=vec[p]+vec[q];
-        ans.pb(s*s);
-        p++;
-        q--;
+        ans.pb(vec[i]+vec[p]);
+        p--;
     }
-    for(ll i=0;i<ans.size();i++)
+    ll res=0;
+    for(ll i=0;i<n/2;i++)
     {
-        sum+=ans[i];
+        res+=(ans[i]*ans[i]);
     }
-    cout<<sum<<endl;
+    cout<<res<<endl;
+
 }
+
