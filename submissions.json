@@ -1417,6 +1417,24 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF79007790": {
+    "contest_id": 859,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\859\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lazy Security Guard",
+    "problem_url": "https://codeforces.com/contest/859/problem/B",
+    "submission_id": "CF79007790",
+    "submission_url": "https://codeforces.com/contest/859/submission/79007790",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/05/2020 04:14"
+  },
   "CF79008325": {
     "contest_id": 1097,
     "language": "GNU C++17 (64)",
