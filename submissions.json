@@ -1417,6 +1417,22 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF79254240": {
+    "contest_id": 977,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\977\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Less or Equal",
+    "problem_url": "https://codeforces.com/contest/977/problem/C",
+    "submission_id": "CF79254240",
+    "submission_url": "https://codeforces.com/contest/977/submission/79254240",
+    "tags": [
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/07/2020 15:34"
+  },
   "CF79254511": {
     "contest_id": 1266,
     "language": "GNU C++17 (64)",
