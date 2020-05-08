@@ -1417,6 +1417,22 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF79387648": {
+    "contest_id": 1321,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1321\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Contest for Robots",
+    "problem_url": "https://codeforces.com/contest/1321/problem/A",
+    "submission_id": "CF79387648",
+    "submission_url": "https://codeforces.com/contest/1321/submission/79387648",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/08/2020 20:35"
+  },
   "CF79389782": {
     "contest_id": 1251,
     "language": "GNU C++17 (64)",
