@@ -1417,6 +1417,23 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF79336571": {
+    "contest_id": 760,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\760\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petr and a calendar",
+    "problem_url": "https://codeforces.com/contest/760/problem/A",
+    "submission_id": "CF79336571",
+    "submission_url": "https://codeforces.com/contest/760/submission/79336571",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/08/2020 07:40"
+  },
   "CF79375170": {
     "contest_id": 41,
     "language": "GNU C++17 (64)",
