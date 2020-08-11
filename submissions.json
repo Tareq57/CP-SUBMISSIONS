@@ -1417,6 +1417,22 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF89572743": {
+    "contest_id": 429,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\429\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Working out",
+    "problem_url": "https://codeforces.com/contest/429/problem/B",
+    "submission_id": "CF89572743",
+    "submission_url": "https://codeforces.com/contest/429/submission/89572743",
+    "tags": [
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Aug/11/2020 17:31"
+  },
   "CF89599319": {
     "contest_id": 902,
     "language": "GNU C++17 (64)",
