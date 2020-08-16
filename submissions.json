@@ -1417,6 +1417,23 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF90146347": {
+    "contest_id": 1392,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1392\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Omkar and Bed Wars",
+    "problem_url": "https://codeforces.com/contest/1392/problem/D",
+    "submission_id": "CF90146347",
+    "submission_url": "https://codeforces.com/contest/1392/submission/90146347",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Aug/16/2020 22:14"
+  },
   "CF90243170": {
     "contest_id": 20,
     "language": "GNU C++17 (64)",
