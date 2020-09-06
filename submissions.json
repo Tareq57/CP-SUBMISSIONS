@@ -1417,6 +1417,24 @@
     ],
     "timestamp": "Sep/28/2021 00:52"
   },
+  "CF92064559": {
+    "contest_id": 1405,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1405\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Balanced Bitstring",
+    "problem_url": "https://codeforces.com/contest/1405/problem/C",
+    "submission_id": "CF92064559",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92064559",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Sep/06/2020 22:02"
+  },
   "CF92106293": {
     "contest_id": 1195,
     "language": "GNU C++17 (64)",
