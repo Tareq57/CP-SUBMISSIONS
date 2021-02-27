@@ -1,4 +1,20 @@
 {
+  "CF108627479": {
+    "contest_id": 872,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\872\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum of Maximums of Minimums",
+    "problem_url": "https://codeforces.com/contest/872/problem/B",
+    "submission_id": "CF108627479",
+    "submission_url": "https://codeforces.com/contest/872/submission/108627479",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Feb/28/2021 01:42"
+  },
   "CF108680678": {
     "contest_id": 1491,
     "language": "GNU C++17 (64)",
