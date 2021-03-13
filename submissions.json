@@ -1,4 +1,22 @@
 {
+  "CF109907744": {
+    "contest_id": 1501,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1501\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Going Home",
+    "problem_url": "https://codeforces.com/contest/1501/problem/C",
+    "submission_id": "CF109907744",
+    "submission_url": "https://codeforces.com/contest/1501/submission/109907744",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Mar/13/2021 21:49"
+  },
   "CF110189711": {
     "contest_id": 1497,
     "language": "GNU C++17 (64)",
