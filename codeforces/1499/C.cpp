@@ -1,63 +1,63 @@
-//BISMILLAH
-//RABBI JIDNI ILMA
-#include<bits/stdc++.h>
+/*BISMILLAH
+THE WHITE WOLF
+NO DREAM IS TOO BIG AND NO DREAMER IS TOO SMALL*/
+ 
+#include <bits/stdc++.h>
 using namespace std;
-#define ll long long
+typedef long long ll;
+typedef unsigned long long ull;
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
+typedef vector<long long> vll;
+typedef vector<int> vi;
+ 
+#define io ios_base::sync_with_stdio(false)
 #define pb push_back
-#define mp make_pair
-#define ull  unsigned long long
-#define vll  vector <long long>
-#define pll pair <long long,long long>
-#define f first
-#define s second
-#define up upper_bound
-#define lp lower_bound
-#define pq priority_queue
-#define inf 1e15
-#define minf -1e18
-#define pi 3.14159265
+#define SET(n, i) bool(n & (1LL << i))
+#define PI 2 * acos(0.0)
+#define all(r) (r).begin(), (r).end()
+#define dbg(a) cout << #a << " ->->->-> " << a << "\n"
+#define inf 100000000000000000
 #define mod 1000000007
-#define fastio ios_base::sync_with_stdio(0);cin.tie(NULL);
-ll ceil(ll p,ll q)
+#define N 1009
+ 
+int dirx[] = {1, -1, 0, 0, 1, 1, -1, -1}, diry[] = {0, 0, 1, -1, 1, -1, 1, -1};
+ 
+//=============================================ASIFAZAD==============================================//
+ 
+int32_t main()
 {
-    ll r=p/q;
-    if(p%q)
-    r++;
-    return r;
-}
-int main()
-{
-    fastio
-    ll t;
-    cin>>t;
-    while(t--)
+    io;
+    int t;
+    cin >> t;
+    while (t--)
     {
-        ll n;
-        cin>>n;
-        ll cost=inf,odd=0,even=0,odd_min=inf,even_min=inf;
-        for(ll i=1;i<=n;i++)
+        int n;
+        cin >> n;
+        ll ans = inf, ev = 0, evm = inf, od = 0, odm = inf;
+        for (int i = 1; i <= n; i++)
         {
-            ll num;
-            cin>>num;
-            if(i&1)
+            ll x;
+            cin >> x;
+            if (i & 1)
             {
-                odd+=num;
-                odd_min=min(num,odd_min);
+                od += x;
+                odm = min(odm, x);
             }
             else
             {
-                even+=num;
-                even_min=min(num,even_min);
+                ev += x;
+                evm = min(evm, x);
             }
-            if(i>1)
+            if (i >= 2)
             {
-               ll p=(i+1)/2;
-               ll q=i/2;
-                cost=min(cost,odd+even+(n-p)*odd_min+(n-q)*even_min);
+ 
+                ll cur = od + (n - (i + 1) / 2) * odm + ev + (n - i / 2) * evm;
+                ans = min(ans, cur);
             }
         }
-        cout<<cost<<endl;
-
-    }  
-}
+        cout << ans << "\n";
+    }
  
+    return 0;
+}
