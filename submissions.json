@@ -1,4 +1,22 @@
 {
+  "CF110520383": {
+    "contest_id": 1249,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1249\\B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Books Exchange (hard version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/B2",
+    "submission_id": "CF110520383",
+    "submission_url": "https://codeforces.com/contest/1249/submission/110520383",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Mar/20/2021 14:56"
+  },
   "CF110574557": {
     "contest_id": 1249,
     "language": "GNU C++17 (64)",
