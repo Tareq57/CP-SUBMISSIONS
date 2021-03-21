@@ -27,23 +27,23 @@ ll ceil(ll p,ll q)
 }
 int main()
 {
-   ll t;
+   ull t;
    cin>>t;
    while(t--)
    {
-       ll n;
+       ull n;
        cin>>n;
-       vector<ll> vec;
+       vector<ull> vec;
        while(n>0)
        {
-           ll p=n%3;
+           ull p=n%3;
            vec.pb(p);
            n/=3;
        } 
       // reverse(vec.begin(),vec.end());
-       ll res=0;
-       set<ll>zero,two;
-       for(ll i=0;i<vec.size();i++)
+       ull res=0;
+       set<ull>zero,two;
+       for(ull i=0;i<vec.size();i++)
        {
            if(vec[i]==0)
                zero.insert(i);
@@ -57,7 +57,7 @@ int main()
            auto it=up(zero.begin(),zero.end(),i);
            if(zero.end()==it)
            {
-               for(ll j=0;j<vec.size();j++)
+               for(ull j=0;j<vec.size();j++)
                {
                    vec[j]=0;
                    zero.insert(j);
@@ -68,7 +68,7 @@ int main()
            else
            {
                vec[*it]=1;
-               for(ll j=0;j<*it;j++)
+               for(ull j=0;j<*it;j++)
                {
                    if(vec[j]==2)
                    {
@@ -79,10 +79,10 @@ int main()
                }
            }
        }
-       for(ll i=0;i<vec.size();i++)
+       for(ull i=0;i<vec.size();i++)
        {
-           ll p=1;
-           for(ll j=0;j<i;j++)
+           ull p=1;
+           for(ull j=0;j<i;j++)
            {
                p*=3;
            }
