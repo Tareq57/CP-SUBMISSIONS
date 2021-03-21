@@ -1,4 +1,21 @@
 {
+  "CF110677244": {
+    "contest_id": 1484,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1484\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restore Modulo",
+    "problem_url": "https://codeforces.com/contest/1484/problem/B",
+    "submission_id": "CF110677244",
+    "submission_url": "https://codeforces.com/contest/1484/submission/110677244",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/21/2021 23:54"
+  },
   "CF110680116": {
     "contest_id": 1472,
     "language": "GNU C++17 (64)",
