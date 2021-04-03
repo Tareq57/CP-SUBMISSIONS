@@ -1,4 +1,21 @@
 {
+  "CF111882465": {
+    "contest_id": 1504,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1504\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": " D\u00e9j\u00e0 Vu",
+    "problem_url": "https://codeforces.com/contest/1504/problem/A",
+    "submission_id": "CF111882465",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111882465",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/03/2021 20:52"
+  },
   "CF111893410": {
     "contest_id": 1504,
     "language": "GNU C++17 (64)",
