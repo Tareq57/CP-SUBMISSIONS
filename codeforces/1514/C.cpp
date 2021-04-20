@@ -102,7 +102,16 @@ int main()
       ll p=__gcd(i,n);
       if(p==1)
       {
-        ara.pb(i);
+        ll k=modularInverse(i,n);
+        if(k!=i)
+        {
+          vec.insert(i);
+          vec.insert(k);
+        }
+        else
+        {
+          ara.pb(i);
+        }
       }
     }
     ll mul=1;
