@@ -1,4 +1,22 @@
 {
+  "CF113815542": {
+    "contest_id": 757,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\757\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bash's Big Day",
+    "problem_url": "https://codeforces.com/contest/757/problem/B",
+    "submission_id": "CF113815542",
+    "submission_url": "https://codeforces.com/contest/757/submission/113815542",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Apr/22/2021 03:02"
+  },
   "CF113816837": {
     "contest_id": 284,
     "language": "GNU C++17 (64)",
