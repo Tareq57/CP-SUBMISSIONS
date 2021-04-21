@@ -1,4 +1,23 @@
 {
+  "CF113790929": {
+    "contest_id": 1516,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1516\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AGAGA XOOORRR",
+    "problem_url": "https://codeforces.com/contest/1516/problem/B",
+    "submission_id": "CF113790929",
+    "submission_url": "https://codeforces.com/contest/1516/submission/113790929",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/21/2021 22:03"
+  },
   "CF113814645": {
     "contest_id": 1462,
     "language": "GNU C++17 (64)",
