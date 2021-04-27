@@ -1,4 +1,21 @@
 {
+  "CF114404259": {
+    "contest_id": 1459,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1459\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Row GCD",
+    "problem_url": "https://codeforces.com/contest/1459/problem/C",
+    "submission_id": "CF114404259",
+    "submission_url": "https://codeforces.com/contest/1459/submission/114404259",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/28/2021 05:10"
+  },
   "CF114543473": {
     "contest_id": 1519,
     "language": "GNU C++17 (64)",
