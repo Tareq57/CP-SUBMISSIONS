@@ -1,4 +1,21 @@
 {
+  "CF114556225": {
+    "contest_id": 1519,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1519\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Cake Is a Lie",
+    "problem_url": "https://codeforces.com/contest/1519/problem/B",
+    "submission_id": "CF114556225",
+    "submission_url": "https://codeforces.com/contest/1519/submission/114556225",
+    "tags": [
+      "dp",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/29/2021 20:50"
+  },
   "CF114659536": {
     "contest_id": 1519,
     "language": "GNU C++17 (64)",
