@@ -1,4 +1,24 @@
 {
+  "CF114659536": {
+    "contest_id": 1519,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1519\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Berland Regional",
+    "problem_url": "https://codeforces.com/contest/1519/problem/C",
+    "submission_id": "CF114659536",
+    "submission_url": "https://codeforces.com/contest/1519/submission/114659536",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "number theory",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Apr/30/2021 12:36"
+  },
   "CF115223124": {
     "contest_id": 1520,
     "language": "GNU C++17 (64)",
