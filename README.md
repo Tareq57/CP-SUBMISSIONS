@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/tareq578.svg)](https://codeforces.com/profile/tareq578)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Balanced Substring](https://codeforces.com/contest/1569/problem/A) | [Java 11](./codeforces/1569/A.java) | `implementation` `*800` | Sep/28/2021 00:52 | 
